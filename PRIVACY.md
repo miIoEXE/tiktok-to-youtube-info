@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**TikTok to YouTube auto-poster**
+**Ascend Connect**, by Ascend Media Co.
 
-Last updated: 4 September 2026
+Last updated: 17 September 2026
 
 ## What this app does
 

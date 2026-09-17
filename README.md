@@ -1,4 +1,4 @@
-# TikTok to YouTube
+# Ascend Connect
 
 A personal automation that mirrors one TikTok account to one YouTube channel.
 
